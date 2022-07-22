@@ -1,0 +1,22 @@
+body{
+    background-color: #1B8E9A;
+    color:white;
+}
+a{
+    text-decoration: none;
+    color:white;
+}
+a:hover{
+    color:yellow;
+}
+#home-intro{
+    color:white;
+    padding:15%;
+    align-content: center;
+    align-self: center;
+    text-align: center;
+    background-repeat: round;
+}
+#main-container{
+    opacity: 0.2;
+}

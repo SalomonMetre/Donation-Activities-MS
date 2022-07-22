@@ -1,0 +1,23 @@
+#navbar{
+    width:100%;
+}
+#navbar a{
+    text-decoration: none;
+    color:white;
+}
+#navbar a:hover{
+    color:yellow;
+}
+#loginForm{
+    width:80%;
+    text-align: center;
+    align-self: center;
+    align-content: center;
+    padding: 15% 5% 10% 10%;
+    margin-bottom: 15%;
+    margin-left: 15%;
+    margin-right: 15%;
+}
+#main-container{
+    background-color: #1B8E9A;
+}
